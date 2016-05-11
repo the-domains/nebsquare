@@ -1,0 +1,28 @@
+name: nebsquare
+favicon: null
+layout_spectrum: 0.9606097005307674
+typography_spectrum: 0.6650976648088545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7439268222078681
+  lightness: 0.9117124523036182
+  saturation: 0.10855249385349452
+  rhythmicContrast: 0.4258170980028808
+purpose: []
